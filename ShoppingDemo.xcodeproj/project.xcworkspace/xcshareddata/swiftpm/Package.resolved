@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9f828f62e24bd0cf550816057f614be21c3ae5ea"
+      }
+    },
+    {
+      "identity" : "mjrefresh",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CoderMJLee/MJRefresh",
+      "state" : {
+        "revision" : "b9c5464d5480001b7e3b0cdf4c34f4a683d3acd5",
+        "version" : "3.7.6"
+      }
+    },
+    {
+      "identity" : "pkhud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pkluz/PKHUD.git",
+      "state" : {
+        "revision" : "8fd26f23057c6bebd6695524b1c3e05e93aba571",
+        "version" : "5.4.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "633996a807442ec28df9d33b0f88ce57a0e2fdbf",
+        "version" : "5.17.0"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "e837c37d45449fbd3b4745c10c5b5274e73edead",
+        "version" : "2.2.3"
+      }
+    }
+  ],
+  "version" : 2
+}
